@@ -16,9 +16,8 @@
              Create a function that receives as a parameter a list of time intervals and returns the plot the number of reviews for each of the intervals.
              Use the function that you created in the previous literal to plot the number of reviews between the following time intervals:
              
-      First Header  | Second Header
+      Initial Time  | Final Time
       ------------- | -------------
-      Initial time  |	Final time
         06:00:00    |	10:59:59
         11:00:00    |	13:59:59
         14:00:00    |	16:59:59
