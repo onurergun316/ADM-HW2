@@ -1,4 +1,24 @@
 # ADM Homework 2
+Repository for ADM homework 2
+
+# File description
+
+__`ADM-HW2.ipynb`__: Notebook that contains our answers for both The Research and Theoretical questions
+
+As some markdown text is not displayed correctly, here is a link for an external Jupyter viewer:
+https://nbviewer.org/github/onurergun316/ADM-HW2/blob/main/ADM-HW2.ipynb
+
+
+### In this project we used three different csv files which can be found from the following links:
+      https://www.kaggle.com/najzeko/steam-reviews-2021
+      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_1.zip.
+      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_2.zip.
+
+### Contributors:
+      - Francesco Pinto
+      - Onur Ergun
+      - Christian Buda
+
 ## This homework consists of : 
 ### 8 Research Questions
 
@@ -117,13 +137,3 @@ In the knapsack problem we are given n objects and each object i has a weight w_
       For each of the heuristics, provide a counterexample, that is, an example of a problem instance in which the heuristic fails to provide the optimal solution.
 
 
-
-### In this project we used three different csv files which can be found from the following links:
-      https://www.kaggle.com/najzeko/steam-reviews-2021
-      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_1.zip.
-      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_2.zip.
-
-### Contributors:
-      - Francesco Pinto
-      - Onur Ergun
-      - Christian Buda
