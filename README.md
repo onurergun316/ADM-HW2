@@ -2,14 +2,15 @@
 ## This homework consists of : 
 ### 8 Research Questions
 
-      1.RQ 1 - Exploratory Data Analysis
+1.RQ 1 - Exploratory Data Analysis
       
-      2.RQ 2 - Let's explore the dataset by finding simple insights into the reviews.
-                  Plot the number of reviews for each application in descending order.
-                  What applications have the best Weighted Vote Score?
-                  Which applications have the most and the least recommendations?
-                  How many of these applications were purchased, and how many were given for free?
+2.RQ 2 - Let's explore the dataset by finding simple insights into the reviews.
+                  - Plot the number of reviews for each application in descending order.
+                  - What applications have the best Weighted Vote Score?
+                  - Which applications have the most and the least recommendations?
+                  - How many of these applications were purchased, and how many were given for free?
                   
+      
 
       3.RQ 3 - What is the most common time that authors review an application? For example, authors usually write a review at 17:44.
              Create a function that receives as a parameter a list of time intervals and returns the plot the number of reviews for each of the intervals.
