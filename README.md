@@ -16,15 +16,15 @@
              Create a function that receives as a parameter a list of time intervals and returns the plot the number of reviews for each of the intervals.
              Use the function that you created in the previous literal to plot the number of reviews between the following time intervals:
              
-      Initial Time  | Final Time
-      ------------- | -------------
-        06:00:00    |	10:59:59
-        11:00:00    |	13:59:59
-        14:00:00    |	16:59:59
-        17:00:00    |	19:59:59
-        20:00:00    |	23:59:59
-        00:00:00    |	02:59:59
-        03:00:00    |	05:59:59
+Initial Time  |  Final Time
+------------- | -------------
+  06:00:00    |	10:59:59
+  11:00:00    |	13:59:59
+  14:00:00    |	16:59:59
+  17:00:00    |	19:59:59
+  20:00:00    |	23:59:59
+  00:00:00    |	02:59:59
+  03:00:00    |	05:59:59
             
 4. RQ 4 - As Steam is a worldwide platform, the reviews can be done in many languages. Let's extract some information about it.
                     
