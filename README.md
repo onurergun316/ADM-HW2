@@ -60,4 +60,5 @@ Initial Time  |  Final Time
                   - Is there any change in the relationship of the variables mentioned in the previous literal if you include whether an application is recommended                     or not in the review? Use an appropriate statistical test or technique and support your choice.
                   - What are histograms, bar plots, scatterplots and pie charts used for?
                   - What insights can you extract from a Box Plot?
-      
+    
+### 3 Theorotical Questions
