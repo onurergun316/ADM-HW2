@@ -118,7 +118,12 @@ In the knapsack problem we are given n objects and each object i has a weight w_
 
 
 
-### In this project we used three different csv files which can be found from here:
+### In this project we used three different csv files which can be found from the following links:
       https://www.kaggle.com/najzeko/steam-reviews-2021
       https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_1.zip.
       https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_2.zip.
+
+### Contributors:
+      - Francesco Pinto
+      - Onur Ergun
+      - Christian Buda
