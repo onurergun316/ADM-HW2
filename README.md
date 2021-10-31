@@ -2,3 +2,4 @@
 ## This homework consists of : 
 ### 8 Research Questions 
 #### RQ - 1
+      - Exploratory Data Analysis
