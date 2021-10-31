@@ -2,9 +2,9 @@
 ## This homework consists of : 
 ### 8 Research Questions
 
-1.RQ 1 - Exploratory Data Analysis
+1.RQ Exploratory Data Analysis
       
-2.RQ 2 - Let's explore the dataset by finding simple insights into the reviews.
+2.RQ Let's explore the dataset by finding simple insights into the reviews.
                   - Plot the number of reviews for each application in descending order.
                   - What applications have the best Weighted Vote Score?
                   - Which applications have the most and the least recommendations?
