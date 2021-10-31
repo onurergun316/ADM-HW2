@@ -10,8 +10,8 @@
                   - Which applications have the most and the least recommendations?
                   - How many of these applications were purchased, and how many were given for free?
 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
+      1. A nested numbered list
+          2. Which is numbered
           2. Which is numbered                  
 
       3.RQ 3 - What is the most common time that authors review an application? For example, authors usually write a review at 17:44.
