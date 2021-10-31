@@ -5,7 +5,7 @@
 1.RQ Exploratory Data Analysis
       
 2.RQ Let's explore the dataset by finding simple insights into the reviews.
-                  - Plot the number of reviews for each application in descending order.
+      - Plot the number of reviews for each application in descending order.
                   - What applications have the best Weighted Vote Score?
                   - Which applications have the most and the least recommendations?
                   - How many of these applications were purchased, and how many were given for free?
