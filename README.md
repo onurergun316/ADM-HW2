@@ -79,6 +79,46 @@ Initial Time  |  Final Time
                       return alg(L, k)
                     else:
                       return alg(R, k - r)
+      1- What does the algorithm compute?
+      2- What is asymptotically (i.e., we are asking for big-O complexity) the running time of the algorithm in the worst case, as a function of n?
+      3- What is asymptotically the running time of the algorithm in the best case?
+
 
 2. TQ 2
-3. TQ 3
+
+You are given the recursive function splitSwap, which accepts an array a, an index i, and a length n.
+
+               function splitSwap(a, l, n):
+              if n <= 1:
+                return
+              splitSwap(a, l, n/2)
+              splitSwap(a, l+ n /2, n/2)
+              swapList(a, l, n)
+              
+      The subroutine swapList is described here:
+      function swapList(a, l, n):
+  
+              for i = 0 to n/2:
+                tmp = a[l + i]
+                a[l + i] = a[l + n/2 + i]
+                a[l + n/2 + i] = tmp
+
+
+How much running time does it take to execute splitSwap(a, 0, n)? (We want a Big O analysis.)
+What does this algorithm do? Is it optimal? Describe the mechanism of the algorithm in details, we do not want to know only its final result.
+
+4. TQ 3
+
+In the knapsack problem we are given n objects and each object i has a weight w_i and a value v_i. We are also given a weight budget W. The problem is to select a set of objects with total weight bounded by W that maximized the sum of their values. The following are three natural heuristics:
+
+      Order them in increasing order of weight and then visit them sequentially, adding them to the solution as long as the budget is not exceeded
+      Order them in decreasing order of values, and then visit them sequentially, adding them to the solution if the budget is not exceeded
+      Order them in decreasing relative value (v_i / w_i), and then visit them sequentially, adding them to the solution if the budget is not exceeded
+      For each of the heuristics, provide a counterexample, that is, an example of a problem instance in which the heuristic fails to provide the optimal solution.
+
+
+
+### In this project we used three different csv files which can be found from here:
+      https://www.kaggle.com/najzeko/steam-reviews-2021
+      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_1.zip.
+      https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_2.zip.
