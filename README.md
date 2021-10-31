@@ -63,21 +63,22 @@ Initial Time  |  Final Time
     
 ### 3 Theorotical Questions
 1. TQ 1 
-      Input: 
-    A: array of length n
-    k: integers between 1 and n
-    
-function alg(A, k):
-  s <-- a random element of A
-  set L = [all the elements of A with value <= s]
-  set R = [all the elements of A with value > s]
-  r = len(L)
-  if k == r:
-    return s
-  else if k < r:  
-    return alg(L, k)
-  else:
-    return alg(R, k - r)
+                                    
+                   Input: 
+                   A: array of length n
+                   k: integers between 1 and n
+
+                  function alg(A, k):
+                    s <-- a random element of A
+                    set L = [all the elements of A with value <= s]
+                    set R = [all the elements of A with value > s]
+                    r = len(L)
+                    if k == r:
+                      return s
+                    else if k < r:  
+                      return alg(L, k)
+                    else:
+                      return alg(R, k - r)
 
 2. TQ 2
 3. TQ 3
